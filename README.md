@@ -32,3 +32,7 @@ For a shopping list of tested, validated and approved devices, please visit http
 ## Links
 
 [www.cybrrd.com](https://www.cybrrd.com) · [globe.cybrrd.com](https://globe.cybrrd.com) · [BRRDfeeder source](https://github.com/cybrrd/brrdfeeder)
+
+---
+
+Copyright © 2026 Macawi LLC, Iowa, USA. cyBRRD, BRRDfeeder and BRRDhouse are developed and operated by cyBRRD Corporation, Iowa, USA, under license from Macawi LLC.
