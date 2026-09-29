@@ -21,6 +21,7 @@ curl -fsSL https://get.cybrrd.com | bash
 ```
 
 You'll need an external Wi-Fi adapter that supports monitor mode, a Realtek RTL8761B Bluetooth dongle, and a u-blox USB GPS. The installer walks you through the rest.
+For a shopping list of tested, validated and approved devices, please visit https://get.cybrrd.com/ 
 
 ## How we build it
 
