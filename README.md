@@ -35,4 +35,5 @@ For a shopping list of tested, validated and approved devices, please visit http
 
 ---
 
-Copyright © 2026 Macawi LLC, Iowa, USA. cyBRRD, BRRDfeeder and BRRDhouse are developed and operated by cyBRRD Corporation, Iowa, USA, under license from Macawi LLC.
+Copyright © 2026 cyBRRD Corporation, Delaware, USA.
+cyBRRD, BRRDfeeder and BRRDhouse are developed and operated by cyBRRD Corporation.
